@@ -68,3 +68,40 @@
  .operator-btn:active {
      background-color: rgb(47, 31, 0);
  }
+
+
+#mode{
+   
+    height: 50px;
+    width: 50px;
+    position: relative;
+    background-color:mintcream;
+    border: 1px solid black;
+    margin-bottom: 38rem;
+    
+}
+ img{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+   
+ }
+ body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode button {
+  background-color: #ffffff;
+  color: #121212;
+}
+body.dark-mode .operator-btn {
+  background-color: #027685;
+  color: #121212;
+}
+
+#mode:hover{
+    background-color: rgb(255, 215, 192);
+}
