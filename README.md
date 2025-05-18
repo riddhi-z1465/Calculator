@@ -34,5 +34,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
-   cd calculator-app
+   git clone https://github.com/riddhi-z1465/Calculator.git
+
